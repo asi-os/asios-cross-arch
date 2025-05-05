@@ -1,5 +1,6 @@
 
 # 🧪 ASIOS™ Cross-Architecture Test Suite & Validation
+[![Sponsor](https://img.shields.io/github/sponsors/asi-os?label=Sponsor&logo=github)](https://github.com/sponsors/asi-os)
 
 Ensure feature- and performance-parity across x86_64 and ARM64.
 
